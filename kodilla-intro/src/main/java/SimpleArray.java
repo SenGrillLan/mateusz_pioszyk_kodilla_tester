@@ -5,5 +5,8 @@ public class SimpleArray {
         String movies = test0_12[3];
 
         System.out.println(movies);
+
+        int numberOfElements = test0_12.length;
+        System.out.println("Moja tablica ma " + numberOfElements + " elementow");
     }
 }
